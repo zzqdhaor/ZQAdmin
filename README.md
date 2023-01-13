@@ -20,7 +20,14 @@ mvn package
 ```
 java -jar ${filename}.jar
 ```
+
 ## How to config:
 The config file is located at /backend/application.properties.
 The "zq.admin.ssh-username" is required. It is same to your server's ssh username.
 While this done, you can continue to build.
+
+## Screenshots:
+![Login Page](/screenshots/1.png)
+![Status](/screenshots/2.png)
+![Files](/screenshots/3.png)
+![Terminal](/screenshots/4.png)
